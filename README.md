@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **graziela.qualitech@gmail.com**
 
-- 📄 Know about my experiences [HTML, Python, Django,Robot Framework and PyTest](HTML, Python, Django,Robot Framework and PyTest)
+- 📄 Know about my experiences: HTML, Python, Django,Robot Framework and PyTest
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
