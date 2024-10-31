@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Graziela Franzoni</h1>
 <h3 align="center">I'm a beginner Python programmer and QA Sr from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=grazielafranzoni1210&label=Profile%20views&color=0e75b6&style=flat" alt="grazielafranzoni1210" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=graz1rf-qadev1210&label=Profile%20views&color=0e75b6&style=flat" alt="graz1rf-qadev1210" /> </p>
 
 - 📫 How to reach me **graziela.qualitech@gmail.com**
 
