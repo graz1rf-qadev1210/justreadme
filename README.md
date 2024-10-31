@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Graziela Franzoni</h1>
-<h3 align="center">I'm a beginner Python programmer from Brazil</h3>
+<h3 align="center">I'm a beginner Python programmer and QA Sr from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grazielafranzoni1210&label=Profile%20views&color=0e75b6&style=flat" alt="grazielafranzoni1210" /> </p>
 
-- I regularly write to the instagram profile [@grf_qualitech](@grf_qualitech)
-
-- 📫 How to reach me **graziela.franzoni@gmail.com**
+- 📫 How to reach me **graziela.qualitech@gmail.com**
 
 - 📄 Know about my experiences [HTML, Python, Django,Robot Framework and PyTest](HTML, Python, Django,Robot Framework and PyTest)
 
